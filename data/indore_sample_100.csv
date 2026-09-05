@@ -1,0 +1,101 @@
+Date,Time,Booking ID,Booking Status,Customer ID,Vehicle Type,Pickup Location,Drop Location,Avg VTAT,Avg CTAT,Canceled Rides by Customer,Reason for canceling by Customer,Canceled Rides by Driver,Reason for canceling by Driver,Incomplete Rides,Incomplete Rides Reason,Booking Value,Ride Distance,Driver Ratings,Customer Rating
+2025-01-19,15:24,CNR408851382,Success,CUST653152,Bike,Pipliyahana,Rajendra Nagar,12.0,11.0,False,,False,,False,,640,14.3,4.4,4.1
+2025-01-17,22:54,CNR503715179,Canceled by Driver,CUST404945,Mini,Scheme No. 140,Rau,,,False,,True,Customer related issue,False,,1145,3.71,,
+2025-01-01,05:42,CNR393055157,Canceled by Driver,CUST451753,Prime Sedan,Rau,Aerodrome Road,,,False,,True,Personal & Car related issue,False,,307,10.8,,
+2025-01-14,17:22,CNR536715895,Success,CUST275791,Prime SUV,Scheme No. 54,Lokmanya Nagar,8.0,6.0,False,,False,,False,,202,11.14,4.8,4.4
+2025-01-04,02:24,CNR764575622,Success,CUST342949,eBike,Malharganj,Chhoti Gwaltoli,6.0,10.0,False,,False,,False,,582,17.97,4.3,4.2
+2025-01-01,22:16,CNR975649881,Canceled by Driver,CUST592040,Mini,Saket Nagar,Rau,,,False,,True,Customer related issue,False,,175,17.07,,
+2025-01-18,21:42,CNR932792704,Success,CUST230875,eBike,Hira Nagar,LIG Colony,10.0,17.0,False,,False,,False,,355,14.62,3.3,3.8
+2025-01-29,09:09,CNR900826434,Canceled by Customer,CUST503108,Prime Plus,Chhoti Gwaltoli,Saket Nagar,,,True,AC is not working,False,,False,,262,13.56,,
+2025-01-16,23:56,CNR612989395,Canceled by Driver,CUST120060,Bike,Scheme No. 114,Nanda Nagar,,,False,,True,Customer was coughing/sick,False,,423,6.4,,
+2025-01-13,11:54,CNR902508803,Incomplete,CUST411718,eBike,Scheme No. 71,Navlakha,,,False,,False,,True,Customer Demand,476,5.72,,
+2025-01-26,06:01,CNR178323699,Success,CUST420334,Auto,Rajendra Nagar,Palasia,14.0,11.0,False,,False,,False,,697,9.35,4.4,3.9
+2025-01-14,12:04,CNR875647999,Success,CUST374633,Prime SUV,Annapurna,Mhow Naka,7.0,19.0,False,,False,,False,,551,9.84,4.9,4.5
+2025-01-12,16:08,CNR477636651,Canceled by Customer,CUST872367,Bike,Annapurna,South Tukoganj,,,True,AC is not working,False,,False,,535,7.88,,
+2025-01-11,02:31,CNR983359685,Success,CUST312952,Prime SUV,Bhawarkua,Palasia,18.0,8.0,False,,False,,False,,447,19.91,4.7,3.2
+2025-01-15,22:40,CNR848570374,Success,CUST511938,eBike,AB Road,Lasudia Mori,11.0,6.0,False,,False,,False,,319,19.44,3.2,3.9
+2025-01-03,19:27,CNR467752660,Success,CUST919306,Prime SUV,Scheme No. 71,Malharganj,19.0,20.0,False,,False,,False,,407,2.97,4.6,5.0
+2025-01-17,04:01,CNR160308361,Success,CUST706535,Auto,Lasudia Mori,Bhawarkua,12.0,20.0,False,,False,,False,,190,16.2,3.3,4.7
+2025-01-31,13:28,CNR371912191,Success,CUST643085,eBike,MR 1,Hira Nagar,5.0,15.0,False,,False,,False,,172,2.88,4.0,4.1
+2025-01-01,03:50,CNR330080155,Success,CUST645227,Prime SUV,Banganga,Ring Road,15.0,10.0,False,,False,,False,,820,7.76,3.5,3.9
+2025-01-16,05:44,CNR160548094,Success,CUST841339,Mini,Tilak Nagar,Lasudia Mori,14.0,10.0,False,,False,,False,,491,17.3,3.3,4.1
+2025-01-31,04:10,CNR144923423,Success,CUST185072,Prime SUV,MR 9,Scheme No. 78,12.0,9.0,False,,False,,False,,370,11.24,3.3,3.9
+2025-01-06,21:33,CNR779874474,Success,CUST384680,Prime SUV,Nanda Nagar,Khajrana,7.0,8.0,False,,False,,False,,310,17.2,4.6,4.9
+2025-01-14,04:19,CNR241745121,Canceled by Driver,CUST796181,Auto,MR 4,Scheme No. 73,,,False,,True,More than permitted people in there,False,,429,11.18,,
+2025-01-04,14:06,CNR679944149,Canceled by Driver,CUST626616,Auto,Khajrana,MR 9,,,False,,True,Customer was coughing/sick,False,,799,2.17,,
+2025-01-07,23:24,CNR124513218,Canceled by Customer,CUST348390,Prime Sedan,Scheme No. 114,MR 1,,,True,Change of plans,False,,False,,374,3.66,,
+2025-01-17,06:13,CNR478135050,Canceled by Customer,CUST184656,Mini,Rajendra Nagar,MG Road,,,True,Wrong Address,False,,False,,147,4.7,,
+2025-01-11,14:08,CNR333192779,Incomplete,CUST530165,Prime Plus,MR 4,Bhanwarkuan,,,False,,False,,True,Other Issue,184,3.08,,
+2025-01-20,20:10,CNR923351033,Success,CUST723872,Mini,Scheme No. 54,MR 10,19.0,6.0,False,,False,,False,,210,15.39,3.0,4.3
+2025-01-07,12:35,CNR121897684,Success,CUST713996,Prime Plus,Scheme No. 72,Geeta Bhawan,6.0,11.0,False,,False,,False,,699,14.89,3.7,3.4
+2025-01-21,22:00,CNR834618889,Success,CUST377401,Mini,LIG Colony,MR 3,7.0,8.0,False,,False,,False,,130,5.66,3.9,4.8
+2025-01-28,15:29,CNR381369425,Success,CUST518247,Mini,Scheme No. 114,Hira Nagar,16.0,11.0,False,,False,,False,,219,5.94,3.2,3.1
+2025-01-08,14:47,CNR246304636,Incomplete,CUST341148,Prime SUV,Scheme No. 94,Aerodrome Road,,,False,,False,,True,Other Issue,457,11.09,,
+2025-01-30,09:05,CNR759497664,Canceled by Driver,CUST427868,Auto,Scheme No. 73,Scheme No. 140,,,False,,True,Personal & Car related issue,False,,601,4.62,,
+2025-01-19,08:46,CNR338260317,Success,CUST523855,eBike,Aerodrome Road,Scheme No. 72,6.0,17.0,False,,False,,False,,529,18.81,4.2,3.4
+2025-01-06,21:00,CNR305670692,Canceled by Driver,CUST373430,Prime Sedan,MR 1,South Tukoganj,,,False,,True,Customer was coughing/sick,False,,536,12.86,,
+2025-01-30,02:00,CNR271601999,Success,CUST277352,Prime Sedan,Scheme No. 74,LIG Colony,7.0,20.0,False,,False,,False,,191,3.09,3.9,4.2
+2025-01-18,08:35,CNR416279795,Success,CUST758638,Prime Sedan,Geeta Bhawan,Scheme No. 72,19.0,14.0,False,,False,,False,,211,19.25,4.7,3.7
+2025-01-22,14:30,CNR824631541,Canceled by Customer,CUST368417,Prime SUV,Ring Road,Lokmanya Nagar,,,True,Driver is not moving towards pickup location,False,,False,,132,12.14,,
+2025-01-29,15:54,CNR146643218,Canceled by Customer,CUST282334,Bike,Silicon City,Bada Gwaltoli,,,True,Driver is not moving towards pickup location,False,,False,,1995,5.25,,
+2025-01-18,23:32,CNR935966625,Success,CUST747283,Prime Plus,Scheme No. 94,Bhawarkua,15.0,14.0,False,,False,,False,,519,3.66,3.8,4.9
+2025-01-18,22:42,CNR151149474,Success,CUST218455,eBike,Silicon City,South Tukoganj,14.0,8.0,False,,False,,False,,1170,9.9,3.1,3.4
+2025-01-27,04:09,CNR361968303,Success,CUST267982,Auto,Scheme No. 73,Vijay Nagar,15.0,13.0,False,,False,,False,,548,7.92,3.0,4.4
+2025-01-04,10:03,CNR498094773,Success,CUST180258,Auto,Scheme No. 74,Banganga,20.0,12.0,False,,False,,False,,613,5.4,4.7,4.8
+2025-01-28,04:28,CNR155766817,Success,CUST807568,eBike,Super Corridor,MR 3,14.0,13.0,False,,False,,False,,310,3.91,4.9,3.8
+2025-01-16,01:32,CNR544544187,Canceled by Driver,CUST805905,Mini,Scheme No. 140,Bada Gwaltoli,,,False,,True,Personal & Car related issue,False,,374,12.74,,
+2025-01-30,23:08,CNR815984874,Incomplete,CUST118380,eBike,Saket Nagar,Lasudia Mori,,,False,,False,,True,Other Issue,253,5.29,,
+2025-01-01,09:50,CNR379572258,Canceled by Driver,CUST179555,Prime Sedan,Scheme No. 54,Scheme No. 94,,,False,,True,Personal & Car related issue,False,,308,14.82,,
+2025-01-04,22:14,CNR366712712,Incomplete,CUST253647,Auto,Chhoti Gwaltoli,Bhawarkua,,,False,,False,,True,Vehicle Breakdown,295,6.05,,
+2025-01-27,03:08,CNR859324222,Success,CUST180373,Prime Sedan,Scheme No. 73,Saket Nagar,11.0,18.0,False,,False,,False,,471,5.83,3.8,4.8
+2025-01-17,23:49,CNR320484245,Canceled by Customer,CUST490319,Prime Sedan,Scheme No. 73,LIG Colony,,,True,Driver asked to cancel,False,,False,,426,13.43,,
+2025-01-22,00:38,CNR884855131,Success,CUST909667,Auto,Banganga,Scheme No. 54,20.0,13.0,False,,False,,False,,563,8.36,3.2,4.9
+2025-01-28,13:54,CNR186226508,Canceled by Driver,CUST482772,eBike,Scheme No. 140,Scheme No. 72,,,False,,True,Customer related issue,False,,315,11.66,,
+2025-01-05,04:13,CNR754587253,Success,CUST704040,Bike,Super Corridor,MR 4,8.0,18.0,False,,False,,False,,1020,7.35,3.9,4.2
+2025-01-17,10:47,CNR233859505,Success,CUST643556,Prime SUV,Pipliyahana,MR 2,11.0,8.0,False,,False,,False,,380,16.19,4.6,4.5
+2025-01-08,22:25,CNR776183512,Canceled by Driver,CUST925863,Mini,Bhanwarkuan,MR 10,,,False,,True,More than permitted people in there,False,,411,5.9,,
+2025-01-16,11:06,CNR779112021,Canceled by Customer,CUST549073,eBike,AB Road,Navlakha,,,True,AC is not working,False,,False,,677,5.19,,
+2025-01-18,08:45,CNR124903985,Incomplete,CUST378073,eBike,Sudama Nagar,Scheme No. 72,,,False,,False,,True,Customer Demand,1150,9.97,,
+2025-01-24,17:19,CNR837987143,Incomplete,CUST154644,eBike,RNT Marg,MG Road,,,False,,False,,True,Customer Demand,826,17.49,,
+2025-01-31,13:36,CNR755955715,Success,CUST958027,Bike,AB Road,Rau,9.0,19.0,False,,False,,False,,503,15.13,3.7,4.0
+2025-01-02,13:28,CNR203045185,Success,CUST959640,eBike,Lasudia Mori,Scheme No. 73,5.0,18.0,False,,False,,False,,172,6.08,4.9,4.6
+2025-01-14,22:03,CNR321523372,Success,CUST836777,Prime SUV,Scheme No. 72,Nanda Nagar,14.0,7.0,False,,False,,False,,662,10.46,3.3,4.7
+2025-01-19,06:30,CNR674082091,Success,CUST281464,Bike,RNT Marg,MG Road,20.0,19.0,False,,False,,False,,553,16.34,3.6,3.4
+2025-01-23,12:03,CNR458337008,Success,CUST287504,Bike,Khajrana,Scheme No. 71,11.0,20.0,False,,False,,False,,676,6.86,3.6,4.9
+2025-01-01,07:11,CNR182976720,Success,CUST540870,Prime Sedan,MR 2,Scheme No. 71,19.0,11.0,False,,False,,False,,195,18.5,5.0,3.7
+2025-01-20,07:06,CNR284040584,Success,CUST751261,Auto,MR 3,Juni Indore,14.0,14.0,False,,False,,False,,451,18.82,4.4,4.6
+2025-01-25,06:05,CNR736316150,Canceled by Driver,CUST978079,Prime Sedan,Banganga,Lokmanya Nagar,,,False,,True,Customer related issue,False,,439,19.8,,
+2025-01-10,07:12,CNR734420745,Success,CUST263326,Mini,Scheme No. 74,Bhanwarkuan,5.0,12.0,False,,False,,False,,410,17.07,4.0,4.9
+2025-01-07,18:49,CNR896634843,Canceled by Driver,CUST958713,Prime Plus,Pipliyahana,South Tukoganj,,,False,,True,Customer was coughing/sick,False,,158,11.66,,
+2025-01-19,23:32,CNR166043013,Success,CUST192957,Auto,Scheme No. 78,Scheme No. 54,14.0,10.0,False,,False,,False,,1003,14.34,4.9,5.0
+2025-01-01,20:21,CNR773329524,Success,CUST508059,Bike,Super Corridor,Mhow Naka,9.0,7.0,False,,False,,False,,998,2.28,3.6,4.1
+2025-01-24,19:25,CNR747808727,Success,CUST322980,Bike,Chhoti Gwaltoli,Banganga,7.0,19.0,False,,False,,False,,198,5.74,4.8,3.7
+2025-01-27,15:31,CNR623347007,Success,CUST966786,Bike,Chhoti Gwaltoli,Aerodrome Road,7.0,5.0,False,,False,,False,,208,18.28,4.5,3.4
+2025-01-03,21:28,CNR841268762,Canceled by Driver,CUST936702,Bike,Geeta Bhawan,Rajendra Nagar,,,False,,True,Customer was coughing/sick,False,,132,5.97,,
+2025-01-02,08:34,CNR363590615,Success,CUST234703,Mini,MR 3,MR 10,14.0,13.0,False,,False,,False,,839,15.76,3.7,3.3
+2025-01-06,22:53,CNR308334052,Success,CUST734843,Prime Sedan,Scheme No. 73,Malharganj,16.0,10.0,False,,False,,False,,575,5.27,4.5,3.1
+2025-01-30,22:57,CNR306874734,Success,CUST325661,Prime Sedan,Silicon City,Vijay Nagar,8.0,20.0,False,,False,,False,,481,7.42,3.9,3.4
+2025-01-22,04:43,CNR441238127,Canceled by Driver,CUST379386,Auto,Saket Nagar,Rajendra Nagar,,,False,,True,Customer related issue,False,,350,19.36,,
+2025-01-24,23:01,CNR797194996,Success,CUST684032,Prime Sedan,Saket Nagar,Malharganj,14.0,13.0,False,,False,,False,,882,7.95,4.9,4.6
+2025-01-11,01:22,CNR361250233,Success,CUST215001,Prime SUV,Chhoti Gwaltoli,Ring Road,6.0,20.0,False,,False,,False,,724,9.94,4.6,4.8
+2025-01-16,09:28,CNR539824929,Success,CUST952254,Prime Plus,RNT Marg,Scheme No. 114,19.0,5.0,False,,False,,False,,882,13.47,3.7,3.2
+2025-01-03,19:28,CNR966869752,Incomplete,CUST572615,Prime Plus,Mhow Naka,Sudama Nagar,,,False,,False,,True,Customer Demand,312,10.05,,
+2025-01-22,04:45,CNR358824718,Canceled by Driver,CUST945397,Prime Sedan,Scheme No. 140,Scheme No. 94,,,False,,True,Customer related issue,False,,373,4.61,,
+2025-01-16,13:23,CNR951523514,Incomplete,CUST841585,Auto,Vijay Nagar,Mhow Naka,,,False,,False,,True,Vehicle Breakdown,665,16.98,,
+2025-01-08,06:50,CNR829918804,Success,CUST784836,Prime SUV,Bhanwarkuan,Silicon City,20.0,7.0,False,,False,,False,,464,8.42,4.2,3.6
+2025-01-22,13:01,CNR190195725,Success,CUST851756,Prime SUV,MR 10,Scheme No. 140,8.0,19.0,False,,False,,False,,345,19.2,4.1,4.0
+2025-01-17,00:51,CNR782212433,Success,CUST478420,eBike,Saket Nagar,Bada Gwaltoli,14.0,16.0,False,,False,,False,,356,6.11,3.7,3.9
+2025-01-31,12:15,CNR374615670,Incomplete,CUST607905,Auto,Geeta Bhawan,Bhanwarkuan,,,False,,False,,True,Other Issue,933,7.31,,
+2025-01-02,01:06,CNR764230807,Canceled by Driver,CUST185845,Auto,Nanda Nagar,Scheme No. 74,,,False,,True,More than permitted people in there,False,,467,10.79,,
+2025-01-26,19:34,CNR762529166,Canceled by Driver,CUST331500,Prime Plus,Super Corridor,Scheme No. 78,,,False,,True,More than permitted people in there,False,,1425,4.08,,
+2025-01-18,16:41,CNR572601811,Success,CUST660737,eBike,MR 3,Palasia,10.0,13.0,False,,False,,False,,1344,7.16,4.1,4.2
+2025-01-16,10:56,CNR238869121,Success,CUST125830,Prime Plus,Palasia,MR 9,9.0,15.0,False,,False,,False,,553,14.62,3.8,4.9
+2025-01-13,14:01,CNR195598441,Success,CUST977959,Bike,Khajrana,Super Corridor,8.0,16.0,False,,False,,False,,424,3.84,3.3,5.0
+2025-01-16,10:08,CNR430360615,Success,CUST705824,Auto,Nanda Nagar,Aerodrome Road,13.0,14.0,False,,False,,False,,350,3.43,3.0,4.3
+2025-01-20,20:16,CNR530070098,Success,CUST825991,Prime Plus,Hira Nagar,Patel Nagar,12.0,7.0,False,,False,,False,,599,2.06,4.1,4.9
+2025-01-12,09:59,CNR149988294,Success,CUST934207,Mini,MG Road,Navlakha,6.0,7.0,False,,False,,False,,333,17.44,3.7,4.7
+2025-01-05,23:38,CNR390781739,Success,CUST882380,Prime Sedan,MR 3,Vijay Nagar,20.0,15.0,False,,False,,False,,741,18.34,4.3,4.6
+2025-01-21,13:01,CNR720719164,Incomplete,CUST289854,Prime Sedan,Scheme No. 94,Rajendra Nagar,,,False,,False,,True,Other Issue,1255,14.44,,
+2025-01-02,08:01,CNR286448705,Success,CUST935913,Mini,Super Corridor,MG Road,6.0,14.0,False,,False,,False,,291,10.17,3.8,3.5
+2025-01-20,00:26,CNR231169524,Incomplete,CUST867196,Mini,Bada Gwaltoli,Scheme No. 71,,,False,,False,,True,Customer Demand,180,15.22,,
+2025-01-24,02:42,CNR669121662,Canceled by Customer,CUST778156,Mini,Silicon City,Saket Nagar,,,True,Driver asked to cancel,False,,False,,273,2.33,,
