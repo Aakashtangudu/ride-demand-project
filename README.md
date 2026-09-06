@@ -2,7 +2,7 @@
 
 A real-time ride-demand prediction pipeline built end-to-end: streaming ingestion, distributed stream processing, ML-based demand forecasting, a serving API, and a live dashboard.
 
-**Live demo:** _add your Streamlit Cloud URL here_
+**Live demo:** https://ride-demand-project.streamlit.app/
 
 Built and validated on two independent datasets to prove the pipeline is data-source agnostic:
 - **NYC Yellow Taxi** (TLC trip records, 2.9M+ trips, numeric zone IDs)
